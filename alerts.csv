@@ -1,12 +1,10 @@
 timestamp,track,race,post_time,horse,program_num,jockey,trainer,surface,condition,distance,morning_line,live_odds,win_prob_pct,edge_vs_ml,edge_vs_live,bet_amount,alert_type,key_factors,result,payout
 2026-03-27 11:58:25,AQU,5,03:15 PM,MACH SCHNELL,1,ELLIOTT CHRISTOPHER,TERRANOVA JOHN P II,Dirt,Fast,6f,3-1,,45.0,20.0,,40.0,early,"Peaking form cycle, improving speed figures, class drop into easier spot.",,
 2026-03-27 11:58:29,PRX,9,04:16 PM,J CODY,1,HADDOCK DEXTER,MONTOYA MARYA,Dirt,Fast,6f,5-1,,35.0,18.0,,40.0,standard,"Peaking form cycle, improving speed figures, rising through the ranks.",,
-2026-03-27 13:14:22,AQU,5,03:15 PM,MACH SCHNELL,1,,,,,,3-1,,45.0,0.0,0.0,40.0,early,"EARLY ALERT — huge overlay vs ML | [""Strong speed figures"", ""Class drop"", ""Excellent overlay""]",,
-2026-03-27 13:14:28,PRX,9,04:16 PM,J CODY,1,,,,,,5-1,,35.0,0.0,0.0,40.0,standard,"No live odds — using ML edge | [""Undefeated in 2 starts"", ""Big 96 figure last out"", ""Excellent trainer stats""]",,
 2026-03-27 13:14:31,TAM,1,12:25 PM,SAMMYTRINADAMO,2,"Diaz, Jr. Hector R",O'connell Kathleen,Dirt,Fast,7f,3-1,9-1,25.0,0.0,15.0,200,standard,"Fresh and dangerous off the layoff, should control or press the pace, drifting from 3-1 to 9-1 on the tote.",5th,0
 2026-03-27 13:14:41,GP,1,11:30 AM,THEMANUPFRONT,13,Perez Edgar,Wilkes Ian R,Turf,Firm,8f,12-1,11-1,22.0,14.8,13.7,200,standard,"Sharp current form, figures trending up, should control or press the pace.",SCRATCHED,0
 2026-03-27 13:14:45,TAM,1,12:20 PM,WHITING FIELD,2,"Diaz, Jr. Hector R",O'connell Kathleen,Dirt,Fast,7f,3-1,9-1,28.0,3.0,18.0,200,standard,"Sharp current form, should control or press the pace, drifting from 3-1 to 9-1 on the tote.",5th,0
 2026-03-27 13:14:46,TAM,1,12:20 PM,NEURAL NETWORK,4,Meneses Marcos,Minguet Ramon,Dirt,Fast,7f,8-1,41-1,15.0,2.5,12.6,200,standard,"Drops in class to an easier spot, closing style fits if pace is contested, drifting from 8-1 to 41-1 on the tote.",6th,0
-2026-03-27 13:14:50,AQU,1,01:20 PM,IRRESISTIBLE,1,Rivera Dalila A,Arriaga Antonio,Dirt,Fast,8f,8-5,11-1,32.0,-3.6,23.7,200,early,"Sits a tactical trip, drifting from 8-5 to 11-1 on the tote.",,
-2026-03-27 13:14:54,AQU,1,01:20 PM,COLLECTIVE BARGAIN,2,Gutierrez Reylu,Trites A. L,Dirt,Fast,8f,4-1,13-1,20.0,0.0,12.9,200,standard,Drifting from 4-1 to 13-1 on the tote.,,
+2026-03-27 13:14:50,AQU,1,01:20 PM,IRRESISTIBLE,1,Rivera Dalila A,Arriaga Antonio,Dirt,Fast,8f,8-5,11-1,32.0,-3.6,23.7,200,early,"Sits a tactical trip, drifting from 8-5 to 11-1 on the tote.",SCRATCHED,0
+2026-03-27 13:14:54,AQU,1,01:20 PM,COLLECTIVE BARGAIN,2,Gutierrez Reylu,Trites A. L,Dirt,Fast,8f,4-1,13-1,20.0,0.0,12.9,200,standard,Drifting from 4-1 to 13-1 on the tote.,SCRATCHED,0
 2026-03-27 13:15:33,GP,2,01:20 PM,BRIDGESONG,4,Ocasio Jonathan,"Owens, Jr Eddie",Dirt,Fast,6f,5-2,7-2,35.0,6.0,12.8,200,standard,"Sharp current form, sits a tactical trip, drifting from 5-2 to 7-2 on the tote.",,
