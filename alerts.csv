@@ -1,14 +1,7 @@
 timestamp,track,race,post_time,horse,program_num,jockey,trainer,surface,condition,distance,morning_line,live_odds,win_prob_pct,edge_vs_ml,edge_vs_live,bet_amount,alert_type,key_factors,result,payout
-2026-03-28 11:25:00,GP,1,11:30 AM,SARATOGA FLASH,3,,,Turf,Firm,8f,5-1,6-1,14.2,-2.5,12.7,20,tote_signal,"TOTE SIGNAL: Peaking form, sits a tactical trip, drifting from 5-1 to 6-1 on the tote.",6th,0
 2026-03-28 11:45:15,TAM,3,01:35 PM,CHARLIE'S BEAUTY,2,,,,,,7-5,,55.0,0.0,0.0,200.0,standard,"EARLY ALERT — huge overlay vs ML | [""Excellent trainer"", ""Consistent top figs"", ""Class suits perfectly""]",SCRATCHED,0
-2026-03-28 12:52:00,GP,4,12:57 PM,SPIRIT OF ST LOUIS,7,,,Turf,Firm,8f,9-5,3-1,33.2,-2.5,11.1,20,tote_signal,"TOTE SIGNAL: Drifting from 9-1 to 3-1 on the tote.",4th,0
-2026-03-28 13:30:00,TAM,3,01:35 PM,THEE NEW BEGINNING,1,,,Dirt,Fast,5.5f,8-1,6-1,13.1,2.0,16.6,20,tote_signal,"TOTE SIGNAL: Peaking form, should control the pace from the gate.",4th,0
-2026-03-28 13:51:00,GP,6,01:56 PM,BURHAN,1,,,Turf,Firm,7.5f,3-1,6-1,21.9,-3.1,11.3,20,tote_signal,"TOTE SIGNAL: Fresh and dangerous off the layoff, drifting from 3-1 to 6-1 on the tote.",3rd,0
 2026-03-28 14:32:14,TAM,5,02:37 PM,PORTFOLIO DURATION,6,Camacho Samy,Brown Chad C,Turf,Firm,8f,8-5,9-5,48.0,10.5,12.3,40,standard,"Sharp current form, figures trending up, sits a tactical trip.",WON (1st),56.00
-2026-03-28 14:46:00,AQU,4,02:51 PM,SHE'S COOL,8,,,Dirt,Fast,8f,8-1,16-1,16.1,5.0,10.2,20,tote_signal,"TOTE SIGNAL: Peaking form, sits a tactical trip, drifting from 8-1 to 16-1 on the tote.",6th,0
 2026-03-28 15:37:13,TAM,7,03:43 PM,GRAND LIAM,5,,,Turf,Firm,8f,5-2,3-1,40.8,12.0,15.8,40,standard,"Sharp current form, figures trending up, sits a tactical trip.",4th,0
-2026-03-28 16:01:00,GP,10,04:06 PM,SECRET HIDEAWAY,9,,,Turf,Firm,7.5f,2-1,6-1,26.9,-6.4,12.6,20,tote_signal,"TOTE SIGNAL: European form only, drifting from 2-1 to 6-1 on the tote.",7th,0
 2026-03-28 16:13:15,TAM,8,04:18 PM,WILLING ONE,3,,,Dirt,Fast,6f,7-2,6-1,26.2,3.6,11.9,35,standard,"Sharp current form, should control or press the pace, drifting from 7-2 to 6-1 on the tote.",WON (1st),126.00
 2026-03-28 16:29:31,AQU,7,04:34 PM,LUCKY DUDE,3,,,Dirt,Fast,6f,5-2,3-1,40.7,0.0,15.7,40,standard,"TOTE SIGNAL: Sharp current form, figures trending up, sits a tactical trip.",3rd,0
 2026-03-28 16:35:08,GP,11,04:40 PM,MACHO MUSIC,9,,,Dirt,Fast,7f,3-1,6-1,24.5,0.0,10.2,20,standard,"TOTE SIGNAL: Fresh and dangerous off the layoff, should control or press the pace, drifting from 3-1 to 6-1 on the tote.",SCRATCHED,0
-2026-03-28 16:57:00,OP,9,05:02 PM,CLASSIC CAR WASH,8,,,Dirt,Fast,8.5f,2-1,7-2,32.1,-1.2,12.3,20,tote_signal,"TOTE SIGNAL: Peaking form, closer who thrives when the pace is hot.",4th,0
