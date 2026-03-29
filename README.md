@@ -2,13 +2,14 @@
 
 Every pick timestamped on GitHub **before post time**. Every result posted. No cherry-picking.
 
-**5 picks logged** | [Raw CSV](alerts.csv) | [Full commit history](https://github.com/levoniuslevon/horse-edge-tips/commits/main/alerts.csv)
+**6 picks logged** | [Raw CSV](alerts.csv) | [Full commit history](https://github.com/levoniuslevon/horse-edge-tips/commits/main/alerts.csv)
 
-**Win Rate:** 2/4 (50%) | **ROI:** +17% | **P&L:** +$27
+**Win Rate:** 3/5 (60%) | **ROI:** +45% | **P&L:** +$87
 
 | Timestamp | Track | Race | Horse | ML | Live | Edge | Bet | Result | P&L |
 |-----------|-------|------|-------|----|------|------|-----|--------|-----|
-| 2026-03-29 17:42:21 | Tampa Bay Downs | R11 | PARFOIS | 2-1 | 2-1 | +10.9pp | $40 | *pending* |  |
+| 2026-03-29 18:34:03 | Santa Anita | R6 | BARTHOLDY | 6-1 | 13-1 | +11.3pp | $30 | *pending* |  |
+| [2026-03-29 17:42:21](https://github.com/levoniuslevon/horse-edge-tips/commit/5ab1ed0) | Tampa Bay Downs | R11 | PARFOIS | 2-1 | 2-1 | +10.9pp | $40 | **WON (1st)** | +$60 |
 | [2026-03-28 16:29:31](https://github.com/levoniuslevon/horse-edge-tips/commit/7df0f88) | Aqueduct | R7 | LUCKY DUDE | 5-2 | 3-1 | +15.7pp | $40 | 3rd | -$40 |
 | [2026-03-28 16:13:15](https://github.com/levoniuslevon/horse-edge-tips/commit/3a920dc) | Tampa Bay Downs | R8 | WILLING ONE | 7-2 | 6-1 | +11.9pp | $35 | **WON (1st)** | +$91 |
 | [2026-03-28 15:37:13](https://github.com/levoniuslevon/horse-edge-tips/commit/fb4d78e) | Tampa Bay Downs | R7 | GRAND LIAM | 5-2 | 3-1 | +15.8pp | $40 | 4th | -$40 |
